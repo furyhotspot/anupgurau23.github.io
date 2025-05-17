@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @furyhotspot
+- 👋 Hi, I’m @Anup Gurau
 - 👀 I’m interested in coding and bringing different ideas into life.
 - 🌱 I’m currently learning java, python, html.
 - 💞️ I’m looking to collaborate on different projects related AI.
